@@ -130,7 +130,7 @@ body {
 
 
 @media screen and (max-width : 768px) {
-    .tool {
+    body {
         cursor: default;
     }
 }
