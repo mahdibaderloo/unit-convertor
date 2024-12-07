@@ -130,7 +130,7 @@ body {
 
 
 @media screen and (max-width : 768px) {
-    body {
+    .btn,.result-btn {
         cursor: default;
     }
 }
