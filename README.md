@@ -1,6 +1,6 @@
 <h1>
-  Unit Convertor
   <img src="Images/convert-svg.svg" width="40px">
+  Unit Convertor
 </h1>
 
 <br>
