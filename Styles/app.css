@@ -124,3 +124,13 @@ body {
     box-shadow: 3px 3px 4px -5px black, -2px -2px 4px -2px black;
 
 }
+
+
+
+
+
+@media screen and (max-width : 768px) {
+    .tool {
+        cursor: default;
+    }
+}
